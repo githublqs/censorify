@@ -1,0 +1,18 @@
+{
+  "author": "githublqs",
+  "name": "censorify_githublqs",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/githublqs/censorify"
+   },
+  "keywords": [
+    "censor",
+    "words" ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
